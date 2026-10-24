@@ -1,6 +1,6 @@
 title: "Expo React Native + FastAPI Backend Starter"
 description: "A starter container for Expo React Native and FastAPI backend with CRUD APIs."
-baseurl: "/standard_react_fastapi_environment"
+baseurl: "/standard-react-fastapi-environment"
 url: "https://europanite.github.io"
 theme: minima
 markdown: kramdown
