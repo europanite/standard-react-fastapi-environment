@@ -5,16 +5,16 @@ permalink: /fr/
 lang: fr
 ---
 
-# [Standard React FastAPI Environment](https://github.com/europanite/standard_react_fastapi_environment "Starter Container for Expo React Native + FastAPI")
+# [Standard React FastAPI Environment](https://github.com/europanite/standard-react-fastapi-environment "Starter Container for Expo React Native + FastAPI")
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![OS](https://img.shields.io/badge/OS-Linux%20%7C%20macOS%20%7C%20Windows-blue)
 [![Python](https://img.shields.io/badge/python-3.10%20|%203.11|%203.12|%203.13-blue)](https://www.python.org/)
 
-[![CI](https://github.com/europanite/standard_react_fastapi_environment/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/standard_react_fastapi_environment/actions/workflows/ci.yml)
-[![Python Lint](https://github.com/europanite/standard_react_fastapi_environment/actions/workflows/lint.yml/badge.svg)](https://github.com/europanite/standard_react_fastapi_environment/actions/workflows/lint.yml)
-[![pages-build-deployment](https://github.com/europanite/standard_react_fastapi_environment/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/europanite/standard_react_fastapi_environment/actions/workflows/pages/pages-build-deployment)
-[![CodeQL Advanced](https://github.com/europanite/standard_react_fastapi_environment/actions/workflows/codeql.yml/badge.svg)](https://github.com/europanite/standard_react_fastapi_environment/actions/workflows/codeql.yml)
+[![CI](https://github.com/europanite/standard-react-fastapi-environment/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/standard-react-fastapi-environment/actions/workflows/ci.yml)
+[![Python Lint](https://github.com/europanite/standard-react-fastapi-environment/actions/workflows/lint.yml/badge.svg)](https://github.com/europanite/standard-react-fastapi-environment/actions/workflows/lint.yml)
+[![pages-build-deployment](https://github.com/europanite/standard-react-fastapi-environment/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/europanite/standard-react-fastapi-environment/actions/workflows/pages/pages-build-deployment)
+[![CodeQL Advanced](https://github.com/europanite/standard-react-fastapi-environment/actions/workflows/codeql.yml/badge.svg)](https://github.com/europanite/standard-react-fastapi-environment/actions/workflows/codeql.yml)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
@@ -26,15 +26,15 @@ lang: fr
 
 
 <p align="right">
-  <a href="https://europanite.github.io/standard_react_fastapi_environment/">🇺🇸 English</a> |
-  <a href="https://europanite.github.io/standard_react_fastapi_environment/hi/">🇮🇳 हिंदी</a> |
-  <a href="https://europanite.github.io/standard_react_fastapi_environment/ja/">🇯🇵 日本語</a> |
-  <a href="https://europanite.github.io/standard_react_fastapi_environment/zh-CN/">🇨🇳 简体中文</a> |
-  <a href="https://europanite.github.io/standard_react_fastapi_environment/es/">🇪🇸 Español</a> |
-  <a href="https://europanite.github.io/standard_react_fastapi_environment/pt-BR/">🇧🇷 Português (Brasil)</a> |
-  <a href="https://europanite.github.io/standard_react_fastapi_environment/ko/">🇰🇷 한국어</a> |
-  <a href="https://europanite.github.io/standard_react_fastapi_environment/de/">🇩🇪 Deutsch</a> |
-  <a href="https://europanite.github.io/standard_react_fastapi_environment/fr/">🇫🇷 Français</a>
+  <a href="https://europanite.github.io/standard-react-fastapi-environment/">🇺🇸 English</a> |
+  <a href="https://europanite.github.io/standard-react-fastapi-environment/hi/">🇮🇳 हिंदी</a> |
+  <a href="https://europanite.github.io/standard-react-fastapi-environment/ja/">🇯🇵 日本語</a> |
+  <a href="https://europanite.github.io/standard-react-fastapi-environment/zh-CN/">🇨🇳 简体中文</a> |
+  <a href="https://europanite.github.io/standard-react-fastapi-environment/es/">🇪🇸 Español</a> |
+  <a href="https://europanite.github.io/standard-react-fastapi-environment/pt-BR/">🇧🇷 Português (Brasil)</a> |
+  <a href="https://europanite.github.io/standard-react-fastapi-environment/ko/">🇰🇷 한국어</a> |
+  <a href="https://europanite.github.io/standard-react-fastapi-environment/de/">🇩🇪 Deutsch</a> |
+  <a href="https://europanite.github.io/standard-react-fastapi-environment/fr/">🇫🇷 Français</a>
 </p>
 
 **Mobile UI**

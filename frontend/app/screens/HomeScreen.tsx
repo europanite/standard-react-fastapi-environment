@@ -138,7 +138,7 @@ export default function HomeScreen() {
     });
 
   const submitDisabled = !auth.user;
-  const REPO_URL = "https://github.com/europanite/standard_react_fastapi_environment"
+  const REPO_URL = "https://github.com/europanite/standard-react-fastapi-environment"
 
   return (
     <View style={{ flex: 1, padding: 16 }}>
